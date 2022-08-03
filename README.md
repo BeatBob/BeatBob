@@ -2,11 +2,8 @@
 
 I am self taught Front-end Web Developer based in Indonesia, I am a tech enthusiast & a self learner. I'm currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!.
 
-
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🥅 2022 Goals: To be profficient in TypeScript, React Native or NodeJs :|
-
-
+[//]: <> (- 👯 I’m looking to collaborate on Web Development Related Projects **)
+[//]: <> (- 🥅 2022 Goals: To be profficient in TypeScript, React Native or NodeJs :|)
 
 ## Skills 
 
