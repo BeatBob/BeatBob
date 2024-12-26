@@ -19,12 +19,13 @@ I am self taught Front-end Web Developer based in Indonesia, I am a tech enthusi
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/tailwind-563D7C?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </span>
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
 </span>
 
 <h4> Operating System </h4>
